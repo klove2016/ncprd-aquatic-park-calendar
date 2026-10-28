@@ -88,7 +88,7 @@ document.addEventListener("click", e => {
 function render(s) {
   const ageHours = s.last_success ? (Date.now() - new Date(s.last_success)) / 36e5 : Infinity;
   const stale = s.stale || ageHours > (s.stale_after_hours || 36);
-  const badges = [`<span class="badge ${esc(s.status)}">${esc(s.status)}</span>`];
+  const badges = s.status === "error" ? [`<span class="badge error">refresh failing</span>`] : [];
   if (stale) badges.push(`<span class="badge stale">stale — feeds may be out of date</span>`);
   document.getElementById("health").innerHTML = badges.join(" ") +
     ` <span style="color:var(--muted);font-size:.9rem">last checked ${esc(fmt(s.last_checked))}</span>`;
