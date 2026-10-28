@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NCAP Pool Calendar</title>
+<meta name="description" content="Subscribe-able calendars of North Clackamas Aquatic Park drop-in pool sessions, generated daily from the official NCPRD schedule.">
+<style>
+  :root {
+    --bg: #f6f8fb; --card: #ffffff; --text: #17202b; --muted: #5b6878; --line: #dde3ea;
+    --accent: #0b5cad; --accent-ink: #ffffff; --ok: #1d7a46; --warn: #a15c00; --err: #b3261e;
+    --ok-bg: #e5f4ea; --warn-bg: #fff3dc; --err-bg: #fde8e6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f141a; --card: #171e26; --text: #e7edf3; --muted: #9aa8b7; --line: #2a3440;
+      --accent: #5aa7f2; --accent-ink: #08121c; --ok: #6fd39b; --warn: #f2b45a; --err: #ff8a80;
+      --ok-bg: #12291c; --warn-bg: #2d220f; --err-bg: #331816;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 12px; }
+  p.lead { color: var(--muted); margin: 0 0 20px; }
+  a { color: var(--accent); }
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: .85rem; font-weight: 600; }
+  .ok { color: var(--ok); background: var(--ok-bg); } .warning { color: var(--warn); background: var(--warn-bg); }
+  .error, .stale { color: var(--err); background: var(--err-bg); }
+  .feeds { display: grid; gap: 12px; }
+  .feed { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+          display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+  .feed .name { font-weight: 600; } .feed .meta { color: var(--muted); font-size: .9rem; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .btn { border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: 8px; padding: 6px 12px;
+         font: inherit; font-size: .9rem; cursor: pointer; text-decoration: none; }
+  .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; background: var(--card);
+       border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+  dt { color: var(--muted); } dd { margin: 0; overflow-wrap: anywhere; }
+  ul.notes { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px 12px 32px; margin: 0; }
+  ul.notes li { margin: 4px 0; }
+  code { font-size: .85em; }
+  @media (max-width: 560px) { dl { grid-template-columns: 1fr; } dt { margin-top: 8px; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>North Clackamas Aquatic Park — drop-in pool calendar</h1>
+  <p class="lead">Lap swim, dive well, Deep H2O, H2O Fit, Big Surf and parent-preschool sessions, generated daily from the
+    official <a href="https://ncprd.org/aquatic-park">NCPRD schedule</a>. Unofficial; always confirm with NCPRD.</p>
+  <div id="health"><span class="badge">Loading status…</span></div>
+
+  <h2>Subscribe</h2>
+  <div class="feeds" id="feeds"></div>
+  <p class="meta" style="color:var(--muted);font-size:.9rem">Google Calendar: use “Add to Google”, or Settings → Add calendar → From URL and paste the copied link.
+    Google refreshes subscribed calendars on its own schedule (often every 8–24 hours).</p>
+
+  <h2>Data provenance &amp; health</h2>
+  <dl id="provenance"></dl>
+
+  <h2>Warnings &amp; withheld sessions</h2>
+  <ul class="notes" id="notes"></ul>
+
+  <h2>Limitations</h2>
+  <ul class="notes" id="limits"></ul>
+</main>
+<script>
+const FALLBACK_FEEDS = {
+  all: { file: "pool_all.ics", name: "NCAP Pool – All Drop-in Sessions" },
+  lap: { file: "pool_lap.ics", name: "NCAP Pool – Lap Pool Fitness" },
+  dive: { file: "pool_dive.ics", name: "NCAP Pool – Dive Well Fitness" },
+  h2o: { file: "pool_h2o.ics", name: "NCAP Pool – Deep H2O & H2O Fit" },
+  recreation: { file: "pool_recreation.ics", name: "NCAP Pool – Big Surf Recreation Swim" },
+  preschool: { file: "pool_preschool.ics", name: "NCAP Pool – Parent Preschool Swim" },
+};
+const base = new URL(".", location.href);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const fmt = iso => iso ? new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" }) : "—";
+
+function renderFeeds(feeds) {
+  document.getElementById("feeds").innerHTML = Object.values(feeds).map(f => {
+    const https = new URL(f.file, base).href;
+    const webcal = https.replace(/^https?:/, "webcal:");
+    const google = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcal);
+    const count = f.events != null ? `${f.events} upcoming sessions` : "";
+    return `<div class="feed"><div><div class="name">${esc(f.name)}</div><div class="meta">${esc(count)} · <code>${esc(f.file)}</code></div></div>
+      <div class="actions"><a class="btn primary" href="${esc(google)}" target="_blank" rel="noopener">Add to Google</a>
+      <a class="btn" href="${esc(webcal)}">Apple / Outlook</a>
+      <button class="btn" data-copy="${esc(https)}">Copy URL</button></div></div>`;
+  }).join("");
+}
+
+document.addEventListener("click", e => {
+  const url = e.target.dataset?.copy;
+  if (!url) return;
+  navigator.clipboard?.writeText(url).then(() => { e.target.textContent = "Copied"; setTimeout(() => e.target.textContent = "Copy URL", 1500); },
+    () => prompt("Copy this URL:", url));
+});
+
+function render(s) {
+  const ageHours = s.last_success ? (Date.now() - new Date(s.last_success)) / 36e5 : Infinity;
+  const stale = s.stale || ageHours > (s.stale_after_hours || 36);
+  const badges = [`<span class="badge ${esc(s.status)}">${esc(s.status)}</span>`];
+  if (stale) badges.push(`<span class="badge stale">stale — feeds may be out of date</span>`);
+  document.getElementById("health").innerHTML = badges.join(" ") +
+    ` <span style="color:var(--muted);font-size:.9rem">last checked ${esc(fmt(s.last_checked))}</span>`;
+
+  renderFeeds(Object.keys(s.feeds || {}).length ? s.feeds : FALLBACK_FEEDS);
+
+  const src = s.source || {};
+  const v = s.validity || {};
+  const rows = [
+    ["Last checked", fmt(s.last_checked)],
+    ["Last successful validation", fmt(s.last_success)],
+    ["Last feed change published", fmt(s.last_published)],
+    ["Official landing page", `<a href="${esc(s.landing_url)}">${esc(s.landing_url)}</a>`],
+    ["Schedule document", src.schedule_url ? `<a href="${esc(src.schedule_url)}">${esc(src.schedule_url)}</a>` : "—"],
+    ["Link text", esc(src.link_text)],
+    ["SHA-256", `<code>${esc(src.sha256)}</code>`],
+    ["Schedule first seen", fmt(src.first_seen)],
+    ["Season", esc(s.season)],
+    ["Schedule validity", v.start ? `${esc(v.start)} → ${esc(v.end)}${v.uncertain ? " <span class='badge warning'>inferred</span>" : ""}<br><span style="color:var(--muted);font-size:.9rem">${esc(v.basis)}</span>` : "—"],
+    ["Published window", s.horizon ? `${esc(s.horizon.start)} → ${esc(s.horizon.end)}` : "—"],
+    ["Closures", (s.closures || []).map(c => c.start === c.end ? c.start : `${c.start}–${c.end}`).map(esc).join(", ") || "—"],
+    ["Parser version", esc(s.parser_version)],
+  ];
+  document.getElementById("provenance").innerHTML = rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${v}</dd>`).join("");
+
+  const notes = [
+    ...(s.errors || []).map(e => `<li><span class="badge error">error</span> ${esc(e)}</li>`),
+    ...(s.warnings || []).map(w => `<li>${esc(w)}</li>`),
+    ...Object.entries(s.withheld || {}).map(([k, n]) => `<li>${esc(n)} <code>${esc(k)}</code> session(s) withheld inside announced exception windows.</li>`),
+  ];
+  document.getElementById("notes").innerHTML = notes.join("") || "<li>None.</li>";
+  document.getElementById("limits").innerHTML = (s.limitations || []).map(l => `<li>${esc(l)}</li>`).join("");
+}
+
+fetch("status.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(render)
+  .catch(() => {
+    document.getElementById("health").innerHTML = `<span class="badge error">status.json unavailable</span>`;
+    renderFeeds(FALLBACK_FEEDS);
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+name: Refresh pool calendar
+
+on:
+  schedule:
+    - cron: "23 13 * * *" # daily, 13:23 UTC (5:23 AM PST / 6:23 AM PDT)
+  workflow_dispatch:
+    inputs:
+      allow_large_change:
+        description: "Accept a >50% event-count drop (only after checking the new official schedule)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: refresh-pool-calendar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write # commit refreshed docs/ (served by GitHub Pages)
+      issues: write # open/close the failure alert issue
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Refresh feeds
+        id: refresh
+        continue-on-error: true
+        env:
+          EXTRA_ARGS: ${{ inputs.allow_large_change && '--allow-large-change' || '' }}
+        run: PYTHONPATH=src python -m ncprd_pool $EXTRA_ARGS 2>&1 | tee refresh.log
+
+      - name: Commit docs/ (validated feeds, or status.json only on failure)
+        if: steps.refresh.outcome == 'success' || steps.refresh.outcome == 'failure'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Refresh pool calendar ($(date -u +%Y-%m-%dT%H:%MZ), ${{ steps.refresh.outcome }})"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
+
+      - name: Open or update alert issue
+        if: steps.refresh.outcome == 'failure' && vars.ALERT_ISSUES != 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Pool calendar refresh failing"
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          body=$(printf 'Refresh failed; last-good feeds were kept.\n\nRun: %s\n\n```\n%s\n```\n' "$run_url" "$(tail -n 40 refresh.log)")
+          num=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
+
+      - name: Close alert issue after recovery
+        if: steps.refresh.outcome == 'success' && vars.ALERT_ISSUES != 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Pool calendar refresh failing"
+          for num in $(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[].number'); do
+            gh issue close "$num" --comment "Recovered in $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          done
+
+      - name: Fail the job when the refresh failed
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo "::error::Refresh failed; last-good feeds kept. See refresh.log above and docs/status.json."
+          exit 1

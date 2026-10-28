@@ -1,0 +1,137 @@
+{
+  "project": "ncprd-aquatic-park-calendar",
+  "status": "warning",
+  "stale": false,
+  "last_checked": "2026-10-28T22:11:31+00:00",
+  "last_success": "2026-10-28T22:11:31+00:00",
+  "last_published": "2026-10-28T22:11:31+00:00",
+  "stale_after_hours": 36,
+  "parser_version": "1.0.0",
+  "landing_url": "https://ncprd.org/aquatic-park",
+  "source": {
+    "schedule_url": "https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a56507b7f3.pdf",
+    "link_text": "Aquatic Park Drop-in Schedule and Rates",
+    "sha256": "62ffed602918044c8375c82436a8bb135129c6c0c54f5e98f18be7b1e63ed537",
+    "bytes": 716378,
+    "content_type": "application/pdf",
+    "fetched_at": "2026-10-28T22:11:33+00:00",
+    "first_seen": "2026-10-28T22:11:31+00:00",
+    "parser_version": "1.0.0"
+  },
+  "change": {
+    "url_changed": false,
+    "content_changed": false,
+    "parser_changed": false,
+    "reparsed": true
+  },
+  "validity": {
+    "start": "2026-10-03",
+    "end": "2026-12-31",
+    "basis": "start 2026-10-03 from dated session range; end 2026-12-31 from latest dated session range (schedule states no explicit validity window)",
+    "uncertain": true
+  },
+  "horizon": {
+    "start": "2026-10-28",
+    "end": "2026-12-31",
+    "days": 90
+  },
+  "feeds": {
+    "all": {
+      "file": "pool_all.ics",
+      "name": "NCAP Pool \u2013 All Drop-in Sessions",
+      "events": 238
+    },
+    "lap": {
+      "file": "pool_lap.ics",
+      "name": "NCAP Pool \u2013 Lap Pool Fitness",
+      "events": 44
+    },
+    "dive": {
+      "file": "pool_dive.ics",
+      "name": "NCAP Pool \u2013 Dive Well Fitness",
+      "events": 30
+    },
+    "h2o": {
+      "file": "pool_h2o.ics",
+      "name": "NCAP Pool \u2013 Deep H2O & H2O Fit",
+      "events": 86
+    },
+    "recreation": {
+      "file": "pool_recreation.ics",
+      "name": "NCAP Pool \u2013 Big Surf Recreation Swim",
+      "events": 18
+    },
+    "preschool": {
+      "file": "pool_preschool.ics",
+      "name": "NCAP Pool \u2013 Parent Preschool Swim",
+      "events": 60
+    }
+  },
+  "closures": [
+    {
+      "start": "2026-08-24",
+      "end": "2026-10-02"
+    },
+    {
+      "start": "2026-11-11",
+      "end": "2026-11-11"
+    },
+    {
+      "start": "2026-11-26",
+      "end": "2026-11-27"
+    },
+    {
+      "start": "2026-12-24",
+      "end": "2026-12-25"
+    },
+    {
+      "start": "2027-01-01",
+      "end": "2027-01-01"
+    }
+  ],
+  "exceptions": [
+    {
+      "start": "2026-11-16",
+      "end": "2027-02-19",
+      "categories": [
+        "lap_13",
+        "lap_all_ages",
+        "dive_well"
+      ],
+      "note": "Lap Pool and Dive Well availability will be adjusted due to High School Swim Season 11/16/26-2/19/27."
+    }
+  ],
+  "withheld": {
+    "dive_well": 81,
+    "lap_13": 100,
+    "lap_all_ages": 12
+  },
+  "warnings": [
+    "Special period 'WINTER BREAK: 12/21-12/23, 12/28-12/31' has no verifiable session times in the grid; any extra sessions on those dates are not published. Regular grid sessions are still shown.",
+    "Validity window inferred: start 2026-10-03 from dated session range; end 2026-12-31 from latest dated session range (schedule states no explicit validity window).",
+    "2026-11-16..2027-02-19: lap_13, lap_all_ages, dive_well withheld \u2013 \"Lap Pool and Dive Well availability will be adjusted due to High School Swim Season 11/16/26-2/19/27.\""
+  ],
+  "errors": [],
+  "source_history": [
+    {
+      "schedule_url": "https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a56507b7f3.pdf",
+      "sha256": "62ffed602918044c8375c82436a8bb135129c6c0c54f5e98f18be7b1e63ed537",
+      "first_seen": "2026-10-28T22:11:31+00:00"
+    }
+  ],
+  "limitations": [
+    "Checked once a day: changes appear only after NCPRD publishes them on ncprd.org.",
+    "Sessions in announced exception windows are withheld until official times are published."
+  ],
+  "season": "fall 2026",
+  "carried_over_from_previous_schedule": false,
+  "event_count_check": null,
+  "changed_files": [
+    "pool_all.ics",
+    "pool_lap.ics",
+    "pool_dive.ics",
+    "pool_h2o.ics",
+    "pool_recreation.ics",
+    "pool_preschool.ics"
+  ]
+}

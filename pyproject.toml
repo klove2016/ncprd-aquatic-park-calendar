@@ -1,0 +1,8 @@
+[project]
+name = "ncprd-aquatic-park-calendar"
+version = "1.0.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "tests"]
+testpaths = ["tests"]

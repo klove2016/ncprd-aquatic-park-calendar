@@ -1,0 +1,822 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncprd-aquatic-park-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAP Pool – Lap Pool Fitness
+X-WR-CALDESC:Drop-in pool sessions at North Clackamas Aquatic Park\, genera
+ ted from the official NCPRD schedule.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e0e40a36cde852d1ec6f83909b47da89@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T060000
+DTEND;TZID=America/Los_Angeles:20261028T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2a3da296c87cc3ca3690774a1de317@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T100000
+DTEND;TZID=America/Los_Angeles:20261028T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7d8cc3e6ad958c8e4c4ee737ee72fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T150000
+DTEND;TZID=America/Los_Angeles:20261028T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:efe454e704de3352497a73f8c4b53295@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0169a68e25a1cc309797ce76ae181d2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T100000
+DTEND;TZID=America/Los_Angeles:20261029T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2066da7e566b38384b9f76dc3f7596f8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T150000
+DTEND;TZID=America/Los_Angeles:20261029T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16ac34261b38c8657c61c5f1b43a8a67@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T060000
+DTEND;TZID=America/Los_Angeles:20261030T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76f04f135ab17facdf984a1525f10298@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T100000
+DTEND;TZID=America/Los_Angeles:20261030T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f3460f52e09d23654add835eb59945aa@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T083000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0c9331c518dfadb6f2f35739905150@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T083000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:daedc3e36f1276cb58210bcfdde69076@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b39eb319c84fd32b7bd476bd94207470@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d46452cf936d8c73c804641b0dfcadd0@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T060000
+DTEND;TZID=America/Los_Angeles:20261102T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c68bac53498a40468683d2ada6cc7e25@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T100000
+DTEND;TZID=America/Los_Angeles:20261102T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e8855587da5bce455492796ce7b0ee@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T150000
+DTEND;TZID=America/Los_Angeles:20261102T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26b3ced06845d59ebbda6e293929f773@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T190000
+DTEND;TZID=America/Los_Angeles:20261102T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c98c1482b4c23efd668144b1e19b19@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T100000
+DTEND;TZID=America/Los_Angeles:20261103T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d66a86b4550206bfde7ec42ce1852960@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T150000
+DTEND;TZID=America/Los_Angeles:20261103T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e51210a2e299d2eaf5c21f6940cf167@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T060000
+DTEND;TZID=America/Los_Angeles:20261104T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f14a7ee43086e65524da7e6301b029df@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T100000
+DTEND;TZID=America/Los_Angeles:20261104T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b88e036e31102e6182a37ff6f45de553@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T150000
+DTEND;TZID=America/Los_Angeles:20261104T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47aa3b1c8ed0a7277cfbfb26b984805f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T190000
+DTEND;TZID=America/Los_Angeles:20261104T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f7b1f6ed255d3504024113742e84a202@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7004406445c9c00de136cf0b08595190@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T150000
+DTEND;TZID=America/Los_Angeles:20261105T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:513d8167ae32e6a23350244561495cfd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T060000
+DTEND;TZID=America/Los_Angeles:20261106T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7180f5f60837232d6aede26b7cfb40df@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T100000
+DTEND;TZID=America/Los_Angeles:20261106T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9ac9a223e27520af387cf219a769a6@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T083000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfb109eae90ca53bd98c3da1f0899a7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T083000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6429e59cc70917dbfeb0729d9bd1d99@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb13f11df13fbd74ad0628dbc102e307@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e361e76b4b311c0f6d4bd77397d8dce@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T060000
+DTEND;TZID=America/Los_Angeles:20261109T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6cbb4b4b1316f059e52fb4cff8c16be2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T100000
+DTEND;TZID=America/Los_Angeles:20261109T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:808c344b5e5285f3c9d29cf8e96f0a7b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T150000
+DTEND;TZID=America/Los_Angeles:20261109T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e5a1b6be51545322f54462287a1cf9@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T190000
+DTEND;TZID=America/Los_Angeles:20261109T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:936474588519e7fb4212414276deedcb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T100000
+DTEND;TZID=America/Los_Angeles:20261110T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b385102478f6c61fb3a88d7bb94b72c@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T150000
+DTEND;TZID=America/Los_Angeles:20261110T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3987e29ecb4db21232c925d8cc55a75@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T100000
+DTEND;TZID=America/Los_Angeles:20261112T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f2d407dfca1e04917c3c674fdddda8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T150000
+DTEND;TZID=America/Los_Angeles:20261112T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:882fb85126bfcdf8d1114cee71575a9e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T060000
+DTEND;TZID=America/Los_Angeles:20261113T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7004a82a7177baf3284a85eda25fed4f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T100000
+DTEND;TZID=America/Los_Angeles:20261113T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:669fa898887d47b61b6e5119314049fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T083000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:220c25e5cf91cfd66ca4d895d84cf775@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T083000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60ad5b8ecbdcc255638dac4e24063e30@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1051f157890e65d7c07eb1f3f3a5a44@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

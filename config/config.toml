@@ -1,0 +1,134 @@
+# Configuration for ncprd-aquatic-park-calendar.
+# Nothing in here needs to change from season to season: the schedule PDF is
+# discovered from the landing page on every run.
+
+timezone = "America/Los_Angeles"
+landing_url = "https://ncprd.org/aquatic-park"
+facility_name = "North Clackamas Aquatic Park"
+location = "North Clackamas Aquatic Park, 7300 SE Harmony Rd, Milwaukie, OR 97222"
+
+# Rolling window of dated occurrences to publish (never beyond the schedule's validity).
+horizon_days = 90
+# If the schedule does not state an end date, never publish further than this past its start.
+max_validity_days = 120
+# status.json reports stale=true when the last validated run is older than this.
+stale_after_hours = 36
+
+[http]
+user_agent = "ncprd-aquatic-park-calendar/1.0 (+https://github.com/klove2016/ncprd-aquatic-park-calendar; daily schedule check)"
+connect_timeout = 15
+read_timeout = 60
+retries = 4
+backoff_factor = 2.0
+min_interval_seconds = 2.0
+max_bytes = 30_000_000
+
+[discovery]
+# Every <a> on the landing page is scored; the best candidate must reach min_score
+# and must not tie with a different URL. Patterns are case-insensitive regexes.
+min_score = 6
+text_rules = [
+  { pattern = "drop[\\s-]*in", score = 3 },
+  { pattern = "schedule", score = 3 },
+  { pattern = "hours", score = 1 },
+  { pattern = "aquatic\\s*park|pool|ncap", score = 1 },
+  { pattern = "lesson|registration|rental|party|celebration|job|employ|map|menu|guide\\s*archive", score = -5 },
+]
+href_rules = [
+  { pattern = "\\.pdf(\\?|#|$)", score = 2 },
+  { pattern = "schedule|hours|ncap|aquatic", score = 2 },
+]
+
+[validation]
+min_session_minutes = 20
+max_session_minutes = 600
+earliest_start = "05:00"
+latest_end = "23:00"
+min_sessions = 15
+min_categories = 4
+# Fail if the new feed has this much fewer events than the published feed over the same dates.
+max_event_drop_ratio = 0.5
+# Hard ceiling on how long any parsed validity window may be.
+max_validity_window_days = 200
+
+# Each grid row in the PDF must match exactly one category's row_pattern.
+# `keywords` are used to work out which categories a footnote/exception mentions.
+[[categories]]
+key = "lap_13"
+title = "Lap Pool Fitness (13 & older)"
+row_pattern = "lap\\s*pool.*(13|older|adult)"
+keywords = ["lap pool", "lap swim", "lap"]
+feed = "lap"
+
+[[categories]]
+key = "lap_all_ages"
+title = "Lap Pool Fitness (all ages)"
+row_pattern = "lap\\s*pool.*all\\s*ages"
+keywords = ["lap pool", "lap swim", "lap"]
+feed = "lap"
+
+[[categories]]
+key = "dive_well"
+title = "Dive Well Fitness"
+row_pattern = "dive\\s*well"
+keywords = ["dive well", "dive pool", "dive"]
+feed = "dive"
+
+[[categories]]
+key = "deep_h2o"
+title = "Deep H2O"
+row_pattern = "deep\\s*h2o"
+keywords = ["deep h2o"]
+feed = "h2o"
+
+[[categories]]
+key = "h2o_fit"
+title = "H2O Fit"
+row_pattern = "^h2o\\s*fit"
+keywords = ["h2o fit"]
+feed = "h2o"
+
+[[categories]]
+key = "big_surf"
+title = "Big Surf Recreation Swim"
+row_pattern = "big\\s*surf|recreation\\s*swim"
+keywords = ["big surf", "recreation swim", "rec swim"]
+feed = "recreation"
+
+[[categories]]
+key = "parent_preschool"
+title = "Parent Preschool Swim (6 & under)"
+row_pattern = "parent\\s*preschool"
+keywords = ["preschool"]
+feed = "preschool"
+
+# Feeds written to docs/. "all" contains every category.
+[[feeds]]
+key = "all"
+file = "pool_all.ics"
+name = "NCAP Pool – All Drop-in Sessions"
+
+[[feeds]]
+key = "lap"
+file = "pool_lap.ics"
+name = "NCAP Pool – Lap Pool Fitness"
+
+[[feeds]]
+key = "dive"
+file = "pool_dive.ics"
+name = "NCAP Pool – Dive Well Fitness"
+
+[[feeds]]
+key = "h2o"
+file = "pool_h2o.ics"
+name = "NCAP Pool – Deep H2O & H2O Fit"
+
+[[feeds]]
+key = "recreation"
+file = "pool_recreation.ics"
+name = "NCAP Pool – Big Surf Recreation Swim"
+
+[[feeds]]
+key = "preschool"
+file = "pool_preschool.ics"
+name = "NCAP Pool – Parent Preschool Swim"

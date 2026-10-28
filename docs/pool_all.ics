@@ -1,0 +1,4314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncprd-aquatic-park-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAP Pool – All Drop-in Sessions
+X-WR-CALDESC:Drop-in pool sessions at North Clackamas Aquatic Park\, genera
+ ted from the official NCPRD schedule.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:46c8cbfb7134880af5385972e20e3db2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T060000
+DTEND;TZID=America/Los_Angeles:20261028T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e40a36cde852d1ec6f83909b47da89@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T060000
+DTEND;TZID=America/Los_Angeles:20261028T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be90d9c484f3510638e72cf0f8b52684@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T080500
+DTEND;TZID=America/Los_Angeles:20261028T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:304ba5f3318489a4afc1f75b68b2252a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T090000
+DTEND;TZID=America/Los_Angeles:20261028T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2a3da296c87cc3ca3690774a1de317@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T100000
+DTEND;TZID=America/Los_Angeles:20261028T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:21c9cb068e254c6619d3239540a21943@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T100500
+DTEND;TZID=America/Los_Angeles:20261028T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c918cd418b948005d8b7ef799743ecf7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T110000
+DTEND;TZID=America/Los_Angeles:20261028T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:763f870a30f1b03cc0cb37fbf79447f2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T150000
+DTEND;TZID=America/Los_Angeles:20261028T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7d8cc3e6ad958c8e4c4ee737ee72fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T150000
+DTEND;TZID=America/Los_Angeles:20261028T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:614e809cbdce2ca8d0fc61ac192e6374@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T180500
+DTEND;TZID=America/Los_Angeles:20261028T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:efe454e704de3352497a73f8c4b53295@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:351815c40aeafa3af1578126025f0012@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:23cd2a274bc1cef1b6d3dafceafb5122@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T100000
+DTEND;TZID=America/Los_Angeles:20261029T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0169a68e25a1cc309797ce76ae181d2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T100000
+DTEND;TZID=America/Los_Angeles:20261029T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bab52cb94cdceba8e708a3b1fecaea9a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T150000
+DTEND;TZID=America/Los_Angeles:20261029T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2066da7e566b38384b9f76dc3f7596f8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261029T150000
+DTEND;TZID=America/Los_Angeles:20261029T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99bb7150c084652d67d6dd781643d678@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T060000
+DTEND;TZID=America/Los_Angeles:20261030T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16ac34261b38c8657c61c5f1b43a8a67@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T060000
+DTEND;TZID=America/Los_Angeles:20261030T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c33767e17747fc97eeb0163cd197fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T080500
+DTEND;TZID=America/Los_Angeles:20261030T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9225ad99ce82e193589c0616dfd01687@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T090000
+DTEND;TZID=America/Los_Angeles:20261030T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76f04f135ab17facdf984a1525f10298@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T100000
+DTEND;TZID=America/Los_Angeles:20261030T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be7e42f6e6cd9e51d473c3b8f46631b5@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T100500
+DTEND;TZID=America/Los_Angeles:20261030T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e8461b7e8bf8ff6484743c4b07ae260@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261030T110000
+DTEND;TZID=America/Los_Angeles:20261030T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f3460f52e09d23654add835eb59945aa@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T083000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0c9331c518dfadb6f2f35739905150@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T083000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:608c2bc456ff2589ba3514329aecbf1a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T083500
+DTEND;TZID=America/Los_Angeles:20261031T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:05ce46f8f77ac14507c7924943024c05@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T110000
+DTEND;TZID=America/Los_Angeles:20261031T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:963aa52a731ff0b1c900305051064434@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T123000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cd74bad5392138b71bc8537d86a4db9b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T110000
+DTEND;TZID=America/Los_Angeles:20261101T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:838bd450bb81abd8d1608d4866c9e70b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:daedc3e36f1276cb58210bcfdde69076@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b39eb319c84fd32b7bd476bd94207470@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02d1d28d2b3cce982d432b1fcac92592@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T060000
+DTEND;TZID=America/Los_Angeles:20261102T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d46452cf936d8c73c804641b0dfcadd0@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T060000
+DTEND;TZID=America/Los_Angeles:20261102T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eab3c40727a03ecc3d0ba03523b3db5d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T080500
+DTEND;TZID=America/Los_Angeles:20261102T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48e26fbb62d7207d0eb5e5922c90f6f7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T090000
+DTEND;TZID=America/Los_Angeles:20261102T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c68bac53498a40468683d2ada6cc7e25@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T100000
+DTEND;TZID=America/Los_Angeles:20261102T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e98d2e5674ed95b436be990351c0c1a4@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T100500
+DTEND;TZID=America/Los_Angeles:20261102T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e32501fda59a1d35ce0aa7c1631c0410@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T110000
+DTEND;TZID=America/Los_Angeles:20261102T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:890ced7051e36384b84bfed3f9ab117b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T150000
+DTEND;TZID=America/Los_Angeles:20261102T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e8855587da5bce455492796ce7b0ee@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T150000
+DTEND;TZID=America/Los_Angeles:20261102T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c8577be3f749d8151b3b0293093a3a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T180500
+DTEND;TZID=America/Los_Angeles:20261102T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26b3ced06845d59ebbda6e293929f773@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261102T190000
+DTEND;TZID=America/Los_Angeles:20261102T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c80164400a7d0609ab160860ab82dec3@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T090000
+DTEND;TZID=America/Los_Angeles:20261103T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:59e155ab7161c98a63d7b06fcfa16f9a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T100000
+DTEND;TZID=America/Los_Angeles:20261103T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c98c1482b4c23efd668144b1e19b19@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T100000
+DTEND;TZID=America/Los_Angeles:20261103T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc827f292c28cbe04f2ee189bd944aa6@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T150000
+DTEND;TZID=America/Los_Angeles:20261103T175500
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d66a86b4550206bfde7ec42ce1852960@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T150000
+DTEND;TZID=America/Los_Angeles:20261103T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:154da3b4cff7681f2a2b072ff260d3e3@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T180500
+DTEND;TZID=America/Los_Angeles:20261103T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c11dab92abbf4937a0aca9adeba22de@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261103T190000
+DTEND;TZID=America/Los_Angeles:20261103T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe59aec75714be552485615582a12c@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T060000
+DTEND;TZID=America/Los_Angeles:20261104T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e51210a2e299d2eaf5c21f6940cf167@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T060000
+DTEND;TZID=America/Los_Angeles:20261104T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86469a5557c12013a2ff75e4a8098730@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T080500
+DTEND;TZID=America/Los_Angeles:20261104T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83990687efed3736628b066ce2ff3366@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T090000
+DTEND;TZID=America/Los_Angeles:20261104T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f14a7ee43086e65524da7e6301b029df@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T100000
+DTEND;TZID=America/Los_Angeles:20261104T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b32014ce6a66e2a056783b3f18297c@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T100500
+DTEND;TZID=America/Los_Angeles:20261104T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d9729d89fac9a19d57ede32451bc03c2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T110000
+DTEND;TZID=America/Los_Angeles:20261104T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:95acf363205a52148ff58d81beff1887@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T150000
+DTEND;TZID=America/Los_Angeles:20261104T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b88e036e31102e6182a37ff6f45de553@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T150000
+DTEND;TZID=America/Los_Angeles:20261104T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a19f256759552189ed60d8bef5f35d66@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T180500
+DTEND;TZID=America/Los_Angeles:20261104T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47aa3b1c8ed0a7277cfbfb26b984805f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261104T190000
+DTEND;TZID=America/Los_Angeles:20261104T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e54eb3fb4e3edb6ef2668bace3c2d8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T090000
+DTEND;TZID=America/Los_Angeles:20261105T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:35efa1ba963662b5760f234e2181953b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f7b1f6ed255d3504024113742e84a202@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad9c5cb728141adc08228b414429ff9@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T150000
+DTEND;TZID=America/Los_Angeles:20261105T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7004406445c9c00de136cf0b08595190@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261105T150000
+DTEND;TZID=America/Los_Angeles:20261105T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f73a073467e7e309b687d6493e74ecc@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T060000
+DTEND;TZID=America/Los_Angeles:20261106T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:513d8167ae32e6a23350244561495cfd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T060000
+DTEND;TZID=America/Los_Angeles:20261106T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f60f310fba30dc668656b51544dd6b60@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T080500
+DTEND;TZID=America/Los_Angeles:20261106T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1084f6f4a665e7e60182c768b2145194@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T090000
+DTEND;TZID=America/Los_Angeles:20261106T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7180f5f60837232d6aede26b7cfb40df@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T100000
+DTEND;TZID=America/Los_Angeles:20261106T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a04b00da5acae71406c3345e191f63b7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T100500
+DTEND;TZID=America/Los_Angeles:20261106T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adea1048236486308429951919342b34@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261106T110000
+DTEND;TZID=America/Los_Angeles:20261106T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9ac9a223e27520af387cf219a769a6@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T083000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfb109eae90ca53bd98c3da1f0899a7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T083000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dc09b5647a8a568537636e33da45c885@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T083500
+DTEND;TZID=America/Los_Angeles:20261107T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c72d56a6ee7d539b237678f0fedbb94e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e72a3d7fdc16b66fc59b72afa2cecb07@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T123000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:726eb92474da4c472458c46af03d18e3@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T110000
+DTEND;TZID=America/Los_Angeles:20261108T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2edec38791ab808fe12257b1e982f350@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6429e59cc70917dbfeb0729d9bd1d99@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb13f11df13fbd74ad0628dbc102e307@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c680720ede765345cf957498fc1383@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T060000
+DTEND;TZID=America/Los_Angeles:20261109T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e361e76b4b311c0f6d4bd77397d8dce@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T060000
+DTEND;TZID=America/Los_Angeles:20261109T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:602fc43640cf8cc8f30f5938a88d378a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T080500
+DTEND;TZID=America/Los_Angeles:20261109T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:368c7aaed013341b64569c9410a6596a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T090000
+DTEND;TZID=America/Los_Angeles:20261109T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6cbb4b4b1316f059e52fb4cff8c16be2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T100000
+DTEND;TZID=America/Los_Angeles:20261109T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1a2c42a15500abf65c991a28e18909@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T100500
+DTEND;TZID=America/Los_Angeles:20261109T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7748cab36d503e4ad1dcd746036e37a8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T110000
+DTEND;TZID=America/Los_Angeles:20261109T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2bdcbf2af2cb73605d6a99cd855c7a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T150000
+DTEND;TZID=America/Los_Angeles:20261109T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:808c344b5e5285f3c9d29cf8e96f0a7b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T150000
+DTEND;TZID=America/Los_Angeles:20261109T175500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e65ef92e8e9a4c0e44bdfed2a569680@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T180500
+DTEND;TZID=America/Los_Angeles:20261109T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e5a1b6be51545322f54462287a1cf9@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261109T190000
+DTEND;TZID=America/Los_Angeles:20261109T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:825a13e9492d71a488407d1aab7450c2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T090000
+DTEND;TZID=America/Los_Angeles:20261110T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:55c81077df0f6408a9cc148a70b8fc63@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T100000
+DTEND;TZID=America/Los_Angeles:20261110T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:936474588519e7fb4212414276deedcb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T100000
+DTEND;TZID=America/Los_Angeles:20261110T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc6b94211c1688b39ab2f156e44fe164@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T150000
+DTEND;TZID=America/Los_Angeles:20261110T175500
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b385102478f6c61fb3a88d7bb94b72c@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T150000
+DTEND;TZID=America/Los_Angeles:20261110T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4447c20647a569894a86b5488f71d249@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T180500
+DTEND;TZID=America/Los_Angeles:20261110T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10601bc08d6f96e58d82cc807becc259@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261110T190000
+DTEND;TZID=America/Los_Angeles:20261110T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94ce04e6116bb0911b8b4bd376e31a3f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T090000
+DTEND;TZID=America/Los_Angeles:20261112T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2362e8f60a00c508981aa4f2de99c92b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T100000
+DTEND;TZID=America/Los_Angeles:20261112T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3987e29ecb4db21232c925d8cc55a75@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T100000
+DTEND;TZID=America/Los_Angeles:20261112T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a061a6089b9eaf51348432345907c27f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T150000
+DTEND;TZID=America/Los_Angeles:20261112T200000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f2d407dfca1e04917c3c674fdddda8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261112T150000
+DTEND;TZID=America/Los_Angeles:20261112T200000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:22546cb5bd7f67a54f2bd6f71d14273b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T060000
+DTEND;TZID=America/Los_Angeles:20261113T090000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:882fb85126bfcdf8d1114cee71575a9e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T060000
+DTEND;TZID=America/Los_Angeles:20261113T075500
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:171347af8f81aa53b58d0449c0fb2468@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T080500
+DTEND;TZID=America/Los_Angeles:20261113T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0228f32486f05002440a725e6140c148@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T090000
+DTEND;TZID=America/Los_Angeles:20261113T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7004a82a7177baf3284a85eda25fed4f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T100000
+DTEND;TZID=America/Los_Angeles:20261113T123000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e55df4c9dfde65faa66a9050c62e13@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T100500
+DTEND;TZID=America/Los_Angeles:20261113T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d575a7fee60271321348ed3b9428b8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261113T110000
+DTEND;TZID=America/Los_Angeles:20261113T123000
+SUMMARY:NCAP Dive Well Fitness
+DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
+ c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
+ ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
+ chedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Dive Well Fitness
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:669fa898887d47b61b6e5119314049fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T083000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:220c25e5cf91cfd66ca4d895d84cf775@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T083000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47034f9cbe5b9775ff39ef80ffa9f0e9@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T083500
+DTEND;TZID=America/Los_Angeles:20261114T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:edf3ae47ab9ef6208a9e5f730d91fb02@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T110000
+DTEND;TZID=America/Los_Angeles:20261114T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a075bde2c22f43e26f0490adb1d3500e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T123000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6cea9c730f56cec1e5223ef3af54d6d8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T110000
+DTEND;TZID=America/Los_Angeles:20261115T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45e623f8b4c5fb5f1345b902714d584a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60ad5b8ecbdcc255638dac4e24063e30@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Lap Pool Fitness (13 & older)
+DESCRIPTION:Lap Pool Fitness (13 & older) – drop-in session at North Clac
+ kamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD befor
+ e you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_
+ NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (13 & older)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1051f157890e65d7c07eb1f3f3a5a44@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Lap Pool Fitness (all ages)
+DESCRIPTION:Lap Pool Fitness (all ages) – drop-in session at North Clacka
+ mas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before 
+ you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NC
+ AP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Lap Pool Fitness (all ages)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f64fa43e8583864a34126fec5ed6570@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261116T080500
+DTEND;TZID=America/Los_Angeles:20261116T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b579b77077a9f549a2e297a80bba5a34@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261116T090000
+DTEND;TZID=America/Los_Angeles:20261116T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:061be27f9fa18d05194aabe42896aa16@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261116T100500
+DTEND;TZID=America/Los_Angeles:20261116T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5beb816c2c880c5328877599096c06af@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261116T180500
+DTEND;TZID=America/Los_Angeles:20261116T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b48c59f18b6007d69322da0112c46eb0@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261117T090000
+DTEND;TZID=America/Los_Angeles:20261117T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aba92ed5ee07645e86c100d15fb7aeb4@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261117T180500
+DTEND;TZID=America/Los_Angeles:20261117T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8cedccb81fcbfaf967d0af3e4a2d2feb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261118T080500
+DTEND;TZID=America/Los_Angeles:20261118T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac66470f90373f964466d0218daf650@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261118T090000
+DTEND;TZID=America/Los_Angeles:20261118T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf215dc3ed352e3ab7891e1c492fd89@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261118T100500
+DTEND;TZID=America/Los_Angeles:20261118T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5475615b032ab6300efdfdbb9676eb59@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261118T180500
+DTEND;TZID=America/Los_Angeles:20261118T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abea25034aa34c59a248f954fc317a22@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261119T090000
+DTEND;TZID=America/Los_Angeles:20261119T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:43a794cbb0d1e629b65629a41d285541@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261120T080500
+DTEND;TZID=America/Los_Angeles:20261120T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e0399a988c42f5b37d6eb9a59f8d12@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261120T090000
+DTEND;TZID=America/Los_Angeles:20261120T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe0a9b983806154ea27049f632c4bb0@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261120T100500
+DTEND;TZID=America/Los_Angeles:20261120T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d693250a5b1f8005212b7b281fcb92@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261121T083500
+DTEND;TZID=America/Los_Angeles:20261121T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb31852c7031d0da0d0e9d953ee5a78@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261121T110000
+DTEND;TZID=America/Los_Angeles:20261121T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e49fa596f7bd733872a187049cf65632@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261121T123000
+DTEND;TZID=America/Los_Angeles:20261121T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fff279c9e947ba81653ca894034f3a30@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261122T110000
+DTEND;TZID=America/Los_Angeles:20261122T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12bd1aac4c65cab5f624264957dab57a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261122T123000
+DTEND;TZID=America/Los_Angeles:20261122T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e98a441dcaf3bfaac58a6349d1c7ad2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261123T080500
+DTEND;TZID=America/Los_Angeles:20261123T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1376725500b754846b4f12878de4736a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261123T090000
+DTEND;TZID=America/Los_Angeles:20261123T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:75e55eafda30ba908fa2827efae4d4b0@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261123T100500
+DTEND;TZID=America/Los_Angeles:20261123T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:caa0636993071b75e4b7e1b0f300cec5@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261123T180500
+DTEND;TZID=America/Los_Angeles:20261123T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be8d74bef9abf90b69de6b465fe4ff12@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261124T090000
+DTEND;TZID=America/Los_Angeles:20261124T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7333c4cf4b8b451cc8851cb7422a7370@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261124T180500
+DTEND;TZID=America/Los_Angeles:20261124T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f13c7cff9ddf4fb56fb21378c2f846e7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261125T080500
+DTEND;TZID=America/Los_Angeles:20261125T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:652c3ba9c18b362826455b3872d04952@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261125T090000
+DTEND;TZID=America/Los_Angeles:20261125T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2d9bd2fcc4d1f627fad861697a0c7a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261125T100500
+DTEND;TZID=America/Los_Angeles:20261125T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c350bda5284eb51a47ddd54b035c289@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261125T180500
+DTEND;TZID=America/Los_Angeles:20261125T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb42b41625a3c755f2371866bc68197b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261128T083500
+DTEND;TZID=America/Los_Angeles:20261128T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0338b48ab22772fef8edbaa43ba18c3b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261128T110000
+DTEND;TZID=America/Los_Angeles:20261128T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8602011c79bb7876adadf36957c6d47@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261128T123000
+DTEND;TZID=America/Los_Angeles:20261128T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9cc72a9b62ba060376dd1be5bca6310@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261129T110000
+DTEND;TZID=America/Los_Angeles:20261129T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb28b2e8a5d19d35da147989f2e6c504@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261129T123000
+DTEND;TZID=America/Los_Angeles:20261129T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a8954d51b31b6a8e0d717450393960@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261130T080500
+DTEND;TZID=America/Los_Angeles:20261130T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abd79df1b488331a4b9c313da5d9b8b5@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261130T090000
+DTEND;TZID=America/Los_Angeles:20261130T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9a38de316054bf709bd64069444b1a5f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261130T100500
+DTEND;TZID=America/Los_Angeles:20261130T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:287d288a5de14f5038c58d1152e53327@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261130T180500
+DTEND;TZID=America/Los_Angeles:20261130T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:36f316b757c0095d595b477ff0c031c7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTEND;TZID=America/Los_Angeles:20261201T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e5fc173f383ba6c7f8f5c3f454e482@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261201T180500
+DTEND;TZID=America/Los_Angeles:20261201T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad14cdafb435b9638f685c7928a323d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261202T080500
+DTEND;TZID=America/Los_Angeles:20261202T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:674b48c8b5c987a224a5e556aad36bfa@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261202T090000
+DTEND;TZID=America/Los_Angeles:20261202T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be02ad3a2c8ed1a3d0c80056c5491151@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261202T100500
+DTEND;TZID=America/Los_Angeles:20261202T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb513c90e0221557044bda5744dc67b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261202T180500
+DTEND;TZID=America/Los_Angeles:20261202T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c81ee6a49b24ff54d0df067e5ecc613@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c5775ae501aa19ecc69b4731413746c8@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261204T080500
+DTEND;TZID=America/Los_Angeles:20261204T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:98aa5bcef488592d79b9468f0e7478cb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261204T090000
+DTEND;TZID=America/Los_Angeles:20261204T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e167e51719c54dd4887bd6f616797a72@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261204T100500
+DTEND;TZID=America/Los_Angeles:20261204T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0fafa0881822bb943eb903ab4b215845@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261205T083500
+DTEND;TZID=America/Los_Angeles:20261205T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:51a3410d85eca1f68d40133b840dc0fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261205T110000
+DTEND;TZID=America/Los_Angeles:20261205T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f826e8fd6bed801410582a87a315597e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261205T123000
+DTEND;TZID=America/Los_Angeles:20261205T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f067fb1e9ba1ce5b86f9d594cf01aee@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261206T110000
+DTEND;TZID=America/Los_Angeles:20261206T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:947e364fc071a962f31a1c0be3ced8c7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261206T123000
+DTEND;TZID=America/Los_Angeles:20261206T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:705337caf19310ae3fc2ea9a5ede2204@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261207T080500
+DTEND;TZID=America/Los_Angeles:20261207T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ad7301ef74145227e9b941229f717b5b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261207T090000
+DTEND;TZID=America/Los_Angeles:20261207T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:33cef31bf3bec4014fcddc438e5baf6b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261207T100500
+DTEND;TZID=America/Los_Angeles:20261207T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ee053fe3263ce2b80587f3ee411d61fa@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261207T180500
+DTEND;TZID=America/Los_Angeles:20261207T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b845fe099bc8f3f7964a494afdb27632@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261208T090000
+DTEND;TZID=America/Los_Angeles:20261208T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f28e36d687ff5d5cff23b28d5d066c6b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261208T180500
+DTEND;TZID=America/Los_Angeles:20261208T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e74cea374cde2cedef16932c43e9776@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261209T080500
+DTEND;TZID=America/Los_Angeles:20261209T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6f283b1f1b254a2de3e478761f24566b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261209T090000
+DTEND;TZID=America/Los_Angeles:20261209T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a993fe2f5330b00469c6ad5b284feb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261209T100500
+DTEND;TZID=America/Los_Angeles:20261209T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f72bc186be8f37189aee665b30ef2d55@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261209T180500
+DTEND;TZID=America/Los_Angeles:20261209T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25c9ba5eb226498dc6350ebccf6178e7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261210T090000
+DTEND;TZID=America/Los_Angeles:20261210T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73a361404578e070540d8fefb8d7d2db@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261211T080500
+DTEND;TZID=America/Los_Angeles:20261211T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d82c07275e774b588d776f813d9d8fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261211T090000
+DTEND;TZID=America/Los_Angeles:20261211T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e39587052e21e835a57c2e6e064aa5d3@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261211T100500
+DTEND;TZID=America/Los_Angeles:20261211T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9208e7789fa6895bd138edb766adfbe7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261212T083500
+DTEND;TZID=America/Los_Angeles:20261212T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eb108f0c0cb22e0e552465345fea9158@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261212T110000
+DTEND;TZID=America/Los_Angeles:20261212T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e44eaf1b2648cdb6e1408bcced1395a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261212T123000
+DTEND;TZID=America/Los_Angeles:20261212T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:711362bf7547a4e02c7b5bff662b8e5d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261213T110000
+DTEND;TZID=America/Los_Angeles:20261213T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70f45b39c62107be4b06841b8f7e564b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261213T123000
+DTEND;TZID=America/Los_Angeles:20261213T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9329e1d30f8ccf784ab8a60ad783e154@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261214T080500
+DTEND;TZID=America/Los_Angeles:20261214T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d3f01274b526fdaf5b1c8cce5ad279@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261214T090000
+DTEND;TZID=America/Los_Angeles:20261214T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17cebe385dcc46904c44192f45639a12@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261214T100500
+DTEND;TZID=America/Los_Angeles:20261214T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbd430a6ea2e07dd28b76000a182948@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261214T180500
+DTEND;TZID=America/Los_Angeles:20261214T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e20f36f2b82ccf8d445591b5ee8133@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261215T090000
+DTEND;TZID=America/Los_Angeles:20261215T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0408b4d7d50add4eec28fb2ee013a9e2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261215T180500
+DTEND;TZID=America/Los_Angeles:20261215T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fd442429dd2a2f6bbe8bec2947a893@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261216T080500
+DTEND;TZID=America/Los_Angeles:20261216T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78b41023be23d792cf727f29451a97dd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261216T090000
+DTEND;TZID=America/Los_Angeles:20261216T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85050d1a95a0e65e98dd09f69951f35a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261216T100500
+DTEND;TZID=America/Los_Angeles:20261216T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0743ba23ca8a0130e941839853227841@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261216T180500
+DTEND;TZID=America/Los_Angeles:20261216T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:66ec5f8bd53778a3fb7b250e6e2b2a41@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261217T090000
+DTEND;TZID=America/Los_Angeles:20261217T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eb19318a464e63f571bb1f4e3ca40b9d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261218T080500
+DTEND;TZID=America/Los_Angeles:20261218T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec266d76d20417e56adb90d9dd0c1a2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261218T090000
+DTEND;TZID=America/Los_Angeles:20261218T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:953e1e51a0688419ed53817b519c2ba5@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261218T100500
+DTEND;TZID=America/Los_Angeles:20261218T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e84768dea19110b90be02e9eb08d66@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261219T083500
+DTEND;TZID=America/Los_Angeles:20261219T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:977f2ad6e6938e580f6c0e0c343476eb@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261219T110000
+DTEND;TZID=America/Los_Angeles:20261219T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe39090d6b91927b8e4ca9341a0c0b84@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261219T123000
+DTEND;TZID=America/Los_Angeles:20261219T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb03a5a7822a4df31ed282395311542@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261220T110000
+DTEND;TZID=America/Los_Angeles:20261220T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a67a54c6d14d349fbfc701cd85bafb86@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261220T123000
+DTEND;TZID=America/Los_Angeles:20261220T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7143a8c5de7fe065929b40ba194b68e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261221T080500
+DTEND;TZID=America/Los_Angeles:20261221T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2010df54b41fb5177b288ae01a122a06@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261221T090000
+DTEND;TZID=America/Los_Angeles:20261221T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1df5e891b6ee428d0aafab8a718f49c@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261221T100500
+DTEND;TZID=America/Los_Angeles:20261221T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cf7069d8240b68c0a8e6f12fc2e7878f@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261221T180500
+DTEND;TZID=America/Los_Angeles:20261221T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:859c703079ec9f4d963115530e989b47@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261222T090000
+DTEND;TZID=America/Los_Angeles:20261222T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5d045b97da61ae5f6edeaf4961451477@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261222T180500
+DTEND;TZID=America/Los_Angeles:20261222T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8193e51907e628b6abfa42477b438e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261223T080500
+DTEND;TZID=America/Los_Angeles:20261223T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e7dfdf2c265a0150e032a1f1ab56ce@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261223T090000
+DTEND;TZID=America/Los_Angeles:20261223T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2aaf32cc31048f69eaaf43409ed432@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261223T100500
+DTEND;TZID=America/Los_Angeles:20261223T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4999953827d45076b816bf466db9ac41@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261223T180500
+DTEND;TZID=America/Los_Angeles:20261223T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8280d5f273a2491128a8ae513b126b10@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261226T083500
+DTEND;TZID=America/Los_Angeles:20261226T092500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:864c9653824e8d66b98ce60de2121225@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261226T110000
+DTEND;TZID=America/Los_Angeles:20261226T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:95347f95a40e41222078846347f3122d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261226T123000
+DTEND;TZID=America/Los_Angeles:20261226T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a94ac512069b20c376f961b5f38213f2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261227T110000
+DTEND;TZID=America/Los_Angeles:20261227T120000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf7720a52d123c007d295d61f29fd14@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261227T123000
+DTEND;TZID=America/Los_Angeles:20261227T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50dc74c1ffe851e2aaf24f80158386ad@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261228T080500
+DTEND;TZID=America/Los_Angeles:20261228T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:160e194b58801dc74b47a25df1ec3176@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261228T090000
+DTEND;TZID=America/Los_Angeles:20261228T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78bcbb8f6ed68aae77471452510f8120@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261228T100500
+DTEND;TZID=America/Los_Angeles:20261228T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:06c44ac9b367a847d9492c7684dd55d2@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261228T180500
+DTEND;TZID=America/Los_Angeles:20261228T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b59338ade69f2ad3aa87b38f29f886fd@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261229T090000
+DTEND;TZID=America/Los_Angeles:20261229T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8768f155ef34d0374b80ada3f99109c7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261229T180500
+DTEND;TZID=America/Los_Angeles:20261229T185500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd973c0da82b2ce136bfdf4b6ba48f3@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261230T080500
+DTEND;TZID=America/Los_Angeles:20261230T085500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6f8c5ac25b4de1b82c394fc63ad394@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261230T090000
+DTEND;TZID=America/Los_Angeles:20261230T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e80843822d27b7d578371c3224a9943@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261230T100500
+DTEND;TZID=America/Los_Angeles:20261230T105500
+SUMMARY:NCAP Deep H2O
+DESCRIPTION:Deep H2O – drop-in session at North Clackamas Aquatic Park.\n
+ Schedules subject to change. Confirm with NCPRD before you go.\nSource: ht
+ tps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a
+ 56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Deep H2O
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a61fb0a5cd6f074ab967131f2a2df9@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261230T180500
+DTEND;TZID=America/Los_Angeles:20261230T185500
+SUMMARY:NCAP H2O Fit
+DESCRIPTION:H2O Fit – drop-in session at North Clackamas Aquatic Park.\nS
+ chedules subject to change. Confirm with NCPRD before you go.\nSource: htt
+ ps://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a5
+ 6507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:H2O Fit
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e920fb08bb7755a95ac21c90dbab5280@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261231T090000
+DTEND;TZID=America/Los_Angeles:20261231T100000
+SUMMARY:NCAP Parent Preschool Swim (6 & under)
+DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
+ Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
+ efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
+ ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Parent Preschool Swim (6 & under)
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,467 @@
+{
+  "source": {
+    "schedule_url": "https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a56507b7f3.pdf",
+    "link_text": "Aquatic Park Drop-in Schedule and Rates",
+    "sha256": "62ffed602918044c8375c82436a8bb135129c6c0c54f5e98f18be7b1e63ed537",
+    "bytes": 716378,
+    "content_type": "application/pdf",
+    "fetched_at": "2026-10-28T22:11:33+00:00",
+    "first_seen": "2026-10-28T22:11:31+00:00",
+    "parser_version": "1.0.0"
+  },
+  "season": "fall 2026",
+  "validity": {
+    "start": "2026-10-03",
+    "end": "2026-12-31",
+    "basis": "start 2026-10-03 from dated session range; end 2026-12-31 from latest dated session range (schedule states no explicit validity window)",
+    "uncertain": true
+  },
+  "sessions": [
+    {
+      "category": "dive_well",
+      "weekday": 0,
+      "start": "06:00",
+      "end": "09:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 0,
+      "start": "06:00",
+      "end": "07:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "h2o_fit",
+      "weekday": 0,
+      "start": "08:05",
+      "end": "08:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 0,
+      "start": "09:00",
+      "end": "10:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 0,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "deep_h2o",
+      "weekday": 0,
+      "start": "10:05",
+      "end": "10:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 0,
+      "start": "11:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 0,
+      "start": "15:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 0,
+      "start": "15:00",
+      "end": "17:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "h2o_fit",
+      "weekday": 0,
+      "start": "18:05",
+      "end": "18:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 0,
+      "start": "19:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 1,
+      "start": "09:00",
+      "end": "10:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 1,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 1,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 1,
+      "start": "15:00",
+      "end": "17:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 1,
+      "start": "15:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "deep_h2o",
+      "weekday": 1,
+      "start": "18:05",
+      "end": "18:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 1,
+      "start": "19:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 2,
+      "start": "06:00",
+      "end": "09:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 2,
+      "start": "06:00",
+      "end": "07:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "h2o_fit",
+      "weekday": 2,
+      "start": "08:05",
+      "end": "08:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 2,
+      "start": "09:00",
+      "end": "10:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 2,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "deep_h2o",
+      "weekday": 2,
+      "start": "10:05",
+      "end": "10:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 2,
+      "start": "11:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 2,
+      "start": "15:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 2,
+      "start": "15:00",
+      "end": "17:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "h2o_fit",
+      "weekday": 2,
+      "start": "18:05",
+      "end": "18:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 2,
+      "start": "19:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 3,
+      "start": "09:00",
+      "end": "10:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 3,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 3,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 3,
+      "start": "15:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 3,
+      "start": "15:00",
+      "end": "20:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 4,
+      "start": "06:00",
+      "end": "09:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 4,
+      "start": "06:00",
+      "end": "07:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "h2o_fit",
+      "weekday": 4,
+      "start": "08:05",
+      "end": "08:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 4,
+      "start": "09:00",
+      "end": "10:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 4,
+      "start": "10:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "deep_h2o",
+      "weekday": 4,
+      "start": "10:05",
+      "end": "10:55",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "dive_well",
+      "weekday": 4,
+      "start": "11:00",
+      "end": "12:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_13",
+      "weekday": 5,
+      "start": "08:30",
+      "end": "15:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_all_ages",
+      "weekday": 5,
+      "start": "08:30",
+      "end": "15:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "deep_h2o",
+      "weekday": 5,
+      "start": "08:35",
+      "end": "09:25",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 5,
+      "start": "11:00",
+      "end": "12:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "big_surf",
+      "weekday": 5,
+      "start": "12:30",
+      "end": "15:30",
+      "first_date": "2026-10-03",
+      "last_date": "2026-12-31"
+    },
+    {
+      "category": "parent_preschool",
+      "weekday": 6,
+      "start": "11:00",
+      "end": "12:00",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "big_surf",
+      "weekday": 6,
+      "start": "12:30",
+      "end": "15:30",
+      "first_date": "2026-10-03",
+      "last_date": "2026-12-31"
+    },
+    {
+      "category": "lap_13",
+      "weekday": 6,
+      "start": "12:30",
+      "end": "15:30",
+      "first_date": null,
+      "last_date": null
+    },
+    {
+      "category": "lap_all_ages",
+      "weekday": 6,
+      "start": "12:30",
+      "end": "15:30",
+      "first_date": null,
+      "last_date": null
+    }
+  ],
+  "closures": [
+    {
+      "start": "2026-08-24",
+      "end": "2026-10-02",
+      "text": "8/24-10/2"
+    },
+    {
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "text": "11/11"
+    },
+    {
+      "start": "2026-11-26",
+      "end": "2026-11-27",
+      "text": "11/26-11/27"
+    },
+    {
+      "start": "2026-12-24",
+      "end": "2026-12-25",
+      "text": "12/24-12/25"
+    },
+    {
+      "start": "2027-01-01",
+      "end": "2027-01-01",
+      "text": "1/1"
+    }
+  ],
+  "exceptions": [
+    {
+      "start": "2026-11-16",
+      "end": "2027-02-19",
+      "text": "11/16/26-2/19/27",
+      "categories": [
+        "lap_13",
+        "lap_all_ages",
+        "dive_well"
+      ],
+      "note": "Lap Pool and Dive Well availability will be adjusted due to High School Swim Season 11/16/26-2/19/27."
+    }
+  ],
+  "notes": [
+    "Schedules subject to change."
+  ],
+  "warnings": [
+    "Special period 'WINTER BREAK: 12/21-12/23, 12/28-12/31' has no verifiable session times in the grid; any extra sessions on those dates are not published. Regular grid sessions are still shown."
+  ]
+}

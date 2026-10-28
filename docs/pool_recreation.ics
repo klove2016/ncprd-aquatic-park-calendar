@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncprd-aquatic-park-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAP Pool – Big Surf Recreation Swim
+X-WR-CALDESC:Drop-in pool sessions at North Clackamas Aquatic Park\, genera
+ ted from the official NCPRD schedule.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:963aa52a731ff0b1c900305051064434@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261031T123000
+DTEND;TZID=America/Los_Angeles:20261031T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:838bd450bb81abd8d1608d4866c9e70b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e72a3d7fdc16b66fc59b72afa2cecb07@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261107T123000
+DTEND;TZID=America/Los_Angeles:20261107T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2edec38791ab808fe12257b1e982f350@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a075bde2c22f43e26f0490adb1d3500e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261114T123000
+DTEND;TZID=America/Los_Angeles:20261114T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45e623f8b4c5fb5f1345b902714d584a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e49fa596f7bd733872a187049cf65632@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261121T123000
+DTEND;TZID=America/Los_Angeles:20261121T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12bd1aac4c65cab5f624264957dab57a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261122T123000
+DTEND;TZID=America/Los_Angeles:20261122T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8602011c79bb7876adadf36957c6d47@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261128T123000
+DTEND;TZID=America/Los_Angeles:20261128T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb28b2e8a5d19d35da147989f2e6c504@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261129T123000
+DTEND;TZID=America/Los_Angeles:20261129T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f826e8fd6bed801410582a87a315597e@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261205T123000
+DTEND;TZID=America/Los_Angeles:20261205T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:947e364fc071a962f31a1c0be3ced8c7@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261206T123000
+DTEND;TZID=America/Los_Angeles:20261206T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e44eaf1b2648cdb6e1408bcced1395a@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261212T123000
+DTEND;TZID=America/Los_Angeles:20261212T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70f45b39c62107be4b06841b8f7e564b@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261213T123000
+DTEND;TZID=America/Los_Angeles:20261213T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe39090d6b91927b8e4ca9341a0c0b84@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261219T123000
+DTEND;TZID=America/Los_Angeles:20261219T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a67a54c6d14d349fbfc701cd85bafb86@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261220T123000
+DTEND;TZID=America/Los_Angeles:20261220T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:95347f95a40e41222078846347f3122d@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261226T123000
+DTEND;TZID=America/Los_Angeles:20261226T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf7720a52d123c007d295d61f29fd14@ncprd-aquatic-park-calendar
+DTSTAMP:20261028T221131Z
+DTSTART;TZID=America/Los_Angeles:20261227T123000
+DTEND;TZID=America/Los_Angeles:20261227T153000
+SUMMARY:NCAP Big Surf Recreation Swim
+DESCRIPTION:Big Surf Recreation Swim – drop-in session at North Clackamas
+  Aquatic Park.\nSchedules subject to change. Confirm with NCPRD before you
+  go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_
+ Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
+LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
+  97222
+CATEGORIES:Big Surf Recreation Swim
+URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
+ ule_a56507b7f3.pdf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
