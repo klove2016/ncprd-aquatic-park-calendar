@@ -28,24 +28,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:351815c40aeafa3af1578126025f0012@ncprd-aquatic-park-calendar
-DTSTAMP:20261028T221131Z
-DTSTART;TZID=America/Los_Angeles:20261029T090000
-DTEND;TZID=America/Los_Angeles:20261029T100000
-SUMMARY:NCAP Parent Preschool Swim (6 & under)
-DESCRIPTION:Parent Preschool Swim (6 & under) – drop-in session at North 
- Clackamas Aquatic Park.\nSchedules subject to change. Confirm with NCPRD b
- efore you go.\nSource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Gu
- ide_NCAP_Hours_Schedule_a56507b7f3.pdf (sha256 62ffed602918)
-LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
-  97222
-CATEGORIES:Parent Preschool Swim (6 & under)
-URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
- ule_a56507b7f3.pdf
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:9225ad99ce82e193589c0616dfd01687@ncprd-aquatic-park-calendar
 DTSTAMP:20261028T221131Z
 DTSTART;TZID=America/Los_Angeles:20261030T090000
