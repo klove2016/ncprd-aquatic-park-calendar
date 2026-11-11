@@ -2,9 +2,9 @@
   "project": "ncprd-aquatic-park-calendar",
   "status": "warning",
   "stale": false,
-  "last_checked": "2026-11-10T13:27:13+00:00",
-  "last_success": "2026-11-10T13:27:13+00:00",
-  "last_published": "2026-11-10T13:27:13+00:00",
+  "last_checked": "2026-11-11T13:27:19+00:00",
+  "last_success": "2026-11-11T13:27:19+00:00",
+  "last_published": "2026-11-11T13:27:19+00:00",
   "stale_after_hours": 36,
   "parser_version": "1.0.0",
   "landing_url": "https://ncprd.org/aquatic-park",
@@ -14,7 +14,7 @@
     "sha256": "62ffed602918044c8375c82436a8bb135129c6c0c54f5e98f18be7b1e63ed537",
     "bytes": 716378,
     "content_type": "application/pdf",
-    "fetched_at": "2026-11-10T13:27:16+00:00",
+    "fetched_at": "2026-11-11T13:27:22+00:00",
     "first_seen": "2026-10-28T22:11:31+00:00",
     "parser_version": "1.0.0"
   },
@@ -31,7 +31,7 @@
     "uncertain": true
   },
   "horizon": {
-    "start": "2026-11-10",
+    "start": "2026-11-11",
     "end": "2026-12-31",
     "days": 90
   },
@@ -39,22 +39,22 @@
     "all": {
       "file": "pool_all.ics",
       "name": "NCAP Pool \u2013 All Drop-in Sessions",
-      "events": 145
+      "events": 138
     },
     "lap": {
       "file": "pool_lap.ics",
       "name": "NCAP Pool \u2013 Lap Pool Fitness",
-      "events": 10
+      "events": 8
     },
     "dive": {
       "file": "pool_dive.ics",
       "name": "NCAP Pool \u2013 Dive Well Fitness",
-      "events": 7
+      "events": 4
     },
     "h2o": {
       "file": "pool_h2o.ics",
       "name": "NCAP Pool \u2013 Deep H2O & H2O Fit",
-      "events": 67
+      "events": 66
     },
     "recreation": {
       "file": "pool_recreation.ics",
@@ -64,7 +64,7 @@
     "preschool": {
       "file": "pool_preschool.ics",
       "name": "NCAP Pool \u2013 Parent Preschool Swim",
-      "events": 47
+      "events": 46
     }
   },
   "closures": [
@@ -125,7 +125,7 @@
   ],
   "season": "fall 2026",
   "carried_over_from_previous_schedule": false,
-  "event_count_check": "145 -> 145 events over 2026-11-10..2026-12-31",
+  "event_count_check": "138 -> 138 events over 2026-11-11..2026-12-31",
   "changed_files": [
     "pool_all.ics",
     "pool_lap.ics",
