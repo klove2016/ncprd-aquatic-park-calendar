@@ -28,42 +28,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2362e8f60a00c508981aa4f2de99c92b@ncprd-aquatic-park-calendar
-DTSTAMP:20261028T221131Z
-DTSTART;TZID=America/Los_Angeles:20261112T100000
-DTEND;TZID=America/Los_Angeles:20261112T123000
-SUMMARY:NCAP Dive Well Fitness
-DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
- c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
- ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
- chedule_a56507b7f3.pdf (sha256 62ffed602918)
-LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
-  97222
-CATEGORIES:Dive Well Fitness
-URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
- ule_a56507b7f3.pdf
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a061a6089b9eaf51348432345907c27f@ncprd-aquatic-park-calendar
-DTSTAMP:20261028T221131Z
-DTSTART;TZID=America/Los_Angeles:20261112T150000
-DTEND;TZID=America/Los_Angeles:20261112T200000
-SUMMARY:NCAP Dive Well Fitness
-DESCRIPTION:Dive Well Fitness – drop-in session at North Clackamas Aquati
- c Park.\nSchedules subject to change. Confirm with NCPRD before you go.\nS
- ource: https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_S
- chedule_a56507b7f3.pdf (sha256 62ffed602918)
-LOCATION:North Clackamas Aquatic Park\, 7300 SE Harmony Rd\, Milwaukie\, OR
-  97222
-CATEGORIES:Dive Well Fitness
-URL:https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Sched
- ule_a56507b7f3.pdf
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:22546cb5bd7f67a54f2bd6f71d14273b@ncprd-aquatic-park-calendar
 DTSTAMP:20261028T221131Z
 DTSTART;TZID=America/Los_Angeles:20261113T060000
