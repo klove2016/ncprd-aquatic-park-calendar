@@ -1,8 +1,8 @@
 {
   "project": "ncprd-aquatic-park-calendar",
-  "status": "warning",
-  "stale": false,
-  "last_checked": "2026-11-16T13:47:27+00:00",
+  "status": "error",
+  "stale": true,
+  "last_checked": "2026-11-17T13:27:34+00:00",
   "last_success": "2026-11-16T13:47:27+00:00",
   "last_published": "2026-11-16T13:47:27+00:00",
   "stale_after_hours": 36,
@@ -19,8 +19,8 @@
     "parser_version": "1.0.0"
   },
   "change": {
-    "url_changed": false,
-    "content_changed": false,
+    "url_changed": true,
+    "content_changed": true,
     "parser_changed": false,
     "reparsed": true
   },
@@ -107,11 +107,11 @@
     "lap_all_ages": 12
   },
   "warnings": [
-    "Special period 'WINTER BREAK: 12/21-12/23, 12/28-12/31' has no verifiable session times in the grid; any extra sessions on those dates are not published. Regular grid sessions are still shown.",
-    "Validity window inferred: start 2026-10-03 from dated session range; end 2026-12-31 from latest dated session range (schedule states no explicit validity window).",
-    "2026-11-16..2027-02-19: lap_13, lap_all_ages, dive_well withheld \u2013 \"Lap Pool and Dive Well availability will be adjusted due to High School Swim Season 11/16/26-2/19/27.\""
+    "Feeds were NOT updated; the last validated feeds remain published."
   ],
-  "errors": [],
+  "errors": [
+    "ValidationError: only 0 weekly sessions parsed (< 15); only 0 session categories parsed (< 4)"
+  ],
   "source_history": [
     {
       "schedule_url": "https://cms-assets.ncprd.org/Fall_2026_Discovery_Guide_NCAP_Hours_Schedule_a56507b7f3.pdf",
@@ -123,13 +123,14 @@
     "Checked once a day: changes appear only after NCPRD publishes them on ncprd.org.",
     "Sessions in announced exception windows are withheld until official times are published."
   ],
-  "season": "fall 2026",
-  "carried_over_from_previous_schedule": false,
-  "event_count_check": "117 -> 117 events over 2026-11-16..2026-12-31",
-  "changed_files": [
-    "pool_all.ics",
-    "pool_lap.ics",
-    "pool_recreation.ics",
-    "pool_preschool.ics"
-  ]
+  "attempted_source": {
+    "schedule_url": "https://cms-assets.ncprd.org/SAG_FALL_2026_Swim_Team_eefe96f909.pdf",
+    "link_text": "Aquatic Park Drop-in Schedule and Rates",
+    "sha256": "35bcdc65ecd24bcbd0bbfb3af7638536c6928584b5724ea005c346cbcaa4ba14",
+    "bytes": 411331,
+    "content_type": "application/pdf",
+    "fetched_at": "2026-11-17T13:27:36+00:00",
+    "first_seen": "2026-11-17T13:27:34+00:00",
+    "parser_version": "1.0.0"
+  }
 }
